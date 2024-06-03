@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{
+    font-family: "Inter", sans-serif;
+}
+.top-btn{
+    background-color: #6B46FF;
+    color: white;
+}
+.search-out{
+    min-width: 280px;
+}
+.icon{
+    width: 40px;
+}
+.search-glass{
+    top: 10px;
+    right: 20px;
+}
+.create-btn{
+    border-radius: 30px;
+    background-color: #F9F5FF;
+    color: #6B46FF;
+}
+.top-btn:hover{
+    color: white;
+}
+.heroheading{
+    font-size: 60px;
+    font-weight: 600;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, .25);
+}
+.para{
+    color: #475467;
+    font-size: 16px;
+}
+.btn-shadow{
+    padding: 18px 36px;
+    box-shadow: 0px 7px 19px 0px #6B46FF66;
+font-size: 18px;
+}
+.heroh2{
+    font-size: 36px;
+}
+.para-padding{
+    max-width: 500px;
+    margin: auto;
+}
+.featured{
+    color: #6B46FF;
+    font-size: 16px;
+    font-weight: 600;
+}
+.card{
+    max-width: 330px;
+   
+}
+.iconcard{
+    padding:10px;
+    border-radius: 50%;
+    background-color: #F4EBFF;
+    width: 70px;
+    border: 10px solid #F9F5FF;
+}
+.colordefault{
+    color: #6B46FF;
+}
+
+.explore{
+   background-color:  #F9FAFB;
+}
+.leftmobile{
+    width: 100%
+}
+.goalimg{
+    width: 90vw;
+}
+footer{
+    background-color: #F9FAFB;;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+    color:#667085;
+    font-size: 16px;
+}
+footer a:hover{
+    color: black;
+}
